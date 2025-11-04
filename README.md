@@ -1,2 +1,2 @@
 # CLASSIFICATION_TASKS
-This machine learning-oriented model aims to train a classifier through an explicit training process using MLPC, an artificial neural network. 
+This machine learning-oriented model aims to train a classifier through an explicit training process using MLPC, an artificial neural network. The dataset I chose is “Hello-SimpleAI/HC3,” consisting of a text containing the ‘questions’ and other labels that are the “answers” given by artificial intelligence, in this case ChatGPT, and humans. The task is to predict whether the model is able to understand whether the answer comes from AI or a human being.
